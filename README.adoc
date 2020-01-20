@@ -1,0 +1,5 @@
+# Mastering Maven
+
+This repository contains the source code for all samples of the 
+*link:https://blogs.oracle.com/author/e475065c-7c0f-4efc-98f4-7d6d0212138d[Mastering Maven]* 
+blog series.
