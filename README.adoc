@@ -3,3 +3,8 @@
 This repository contains the source code for all samples of the 
 *link:https://blogs.oracle.com/author/e475065c-7c0f-4efc-98f4-7d6d0212138d[Mastering Maven]* 
 blog series.
+
+## License
+
+The Universal Permissive License (UPL), Version 1.0
+link:http://www.oracle.com/technetwork/licenses/upl-license-2927578.html[]
